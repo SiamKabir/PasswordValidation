@@ -1,0 +1,47 @@
+.main{
+    display: flex;
+    flex-flow: column wrap;
+    height: 330px;
+    width: 600px;
+    border: 3px solid black;
+    box-shadow: 10px 10px 8px 10px #888888;
+    margin-left: 650px;
+    background-color: azure;
+    margin-top: 100px;
+
+}
+#error{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.first{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    border-bottom: 3px solid black;
+}
+.tab{
+    margin-top:10px;
+    margin-left: 40px;
+}
+
+
+.one{
+    margin-left: 160px;
+    margin-top:10px;
+    height: 30px;
+    width: 100px;
+    cursor: pointer;
+    border-radius: 10px;
+    margin-bottom:10px;
+    background-color: rgb(26, 186, 186);
+}
+.three{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    border-top: 3px solid black;
+}
+
